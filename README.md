@@ -1,2 +1,2 @@
 # bakou-mfi
-Bakou MFI
+Bakou MFI Main Development Repo
